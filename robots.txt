@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laigaebeey.beiran.top/sitemap.xml
